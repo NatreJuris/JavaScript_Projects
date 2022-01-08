@@ -13,7 +13,7 @@
     -10 loops_arrays
     -AJAX
     -JQuery
-    -React
+ 
   
   
 -Pizza Menu
