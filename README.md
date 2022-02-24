@@ -5,7 +5,7 @@
 
 -PIZZA MENU :
 
-    This project is a menu used to order pizza with various toppings. It then takes the input information and calculates the price for the order.
+    This is a menu used to order pizza with various toppings. It takes input information and calculates the price for the order.
 
 
 -TIC TAC TOE :
